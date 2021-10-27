@@ -1,6 +1,7 @@
-<h2> 👋 Olá, eu sou Camille! </h2>
+<img src="cover.svg" align="right" style="width:450px" />
+<h2> 👋 Hi, I'm Camille! </h2>
 
-<h3>Sobre mim</h3>
+<h3>About me</h3>
 
 📏 I'm 20 years old.
 
@@ -36,5 +37,8 @@
 <left>
   <a href="#">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px" />
+   </a>
+  <a href="https://codepen.io/Iguaninha">
+   <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="20px" />
    </a>
 </left>
