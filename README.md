@@ -1,16 +1,40 @@
-### Hi there 👋
+<h2> 👋 Olá, eu sou Camille! </h2>
 
-<!--
-**Camille846/Camille846** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Sobre mim</h3>
 
-Here are some ideas to get you started:
+📏 I'm 20 years old.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏡 Rio de Janeiro, Brazil.
+
+👩‍🔬 Pharmacy college
+
+💻 Front-end student
+
+💬 Intermediary English | Brazilian Portuguese
+ 
+
+<h3> Skills </h3>
+<left>
+   <a href="#">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20px" />
+   </a>
+   <a href="#">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20px" />
+   </a>
+   <a href="#">
+      <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="20px" />
+   </a>
+  <a href="#">
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="20px" />
+   </a>
+  <a href="#">
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="20px" />
+   </a>
+</left>
+
+<h3>Social medias</h3>
+<left>
+  <a href="#">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px" />
+   </a>
+</left>
