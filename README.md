@@ -11,7 +11,7 @@
 
 💻 Front-end student
 
-💬 Intermediary English | Brazilian Portuguese
+💬 Brazilian Portuguese | Advanced English | Intermediary Spanish
  
 
 <h3> Skills </h3>
