@@ -38,7 +38,7 @@
   <a href="https://www.linkedin.com/in/camille-gomes-7b6311224/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px" />
    </a>
-  <a href="https://codepen.io/Iguaninha">
+  <a href="https://codepen.io/CamilleGomes">
    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="20px" />
    </a>
 </left>
