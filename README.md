@@ -3,11 +3,9 @@
 
 <h3>About me</h3>
 
-📏 I'm 20 years old.
+📏 I'm 21 years old.
 
 🏡 Rio de Janeiro, Brazil.
-
-👩‍🔬 Pharmacy college
 
 💻 Front-end student
 
