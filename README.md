@@ -1,15 +1,17 @@
 <img src="cover.svg" align="right" style="width:450px" />
-<h2> 👋 Hi, I'm Camille! </h2>
+<h2> 👋 Olá, sou Camille! </h2>
 
 <h3>About me</h3>
 
-📏 I'm 21 years old.
+📏 Tenho 21 anos.
 
-🏡 Rio de Janeiro, Brazil.
+🏡 Rio de Janeiro, Brasil.
 
-💻 Front-end student
+🎓 Curso Engenharia de Software na Uninter
 
-💬 Brazilian Portuguese | Advanced English | Intermediary Spanish
+💻 Focada na área de desenvolvimento Web.
+
+💬 Português | Inglês Avançado | Espanhol intermediário
  
 
 <h3> Skills </h3>
@@ -26,12 +28,15 @@
   <a href="#">
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="20px" />
    </a>
+   <a href="#"> 
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="20px" />
+   </a>
   <a href="#">
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="20px" />
    </a>
 </left>
 
-<h3>Social medias</h3>
+<h3>Mídias sociais</h3>
 <left>
   <a href="https://www.linkedin.com/in/camille-gomes-7b6311224/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px" />
