@@ -3,13 +3,13 @@
 
 <h3>About me</h3>
 
-📏 Tenho 21 anos.
+📏 Tenho 22 anos.
 
 🏡 Rio de Janeiro, Brasil.
 
-🎓 Curso Engenharia de Software na Uninter
+🎓 Graduação em Engenharia de Software na Uninter
 
-💻 Focada na área de desenvolvimento Web.
+💻 Foco na área de desenvolvimento Web.
 
 💬 Português | Inglês Avançado | Espanhol intermediário
  
