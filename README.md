@@ -38,7 +38,7 @@
 
 <h3>Mídias sociais</h3>
 <left>
-  <a href="https://www.linkedin.com/in/camille-gomes-7b6311224/">
+  <a href="https://www.linkedin.com/in/camillegomes/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px" />
    </a>
   <a href="https://codepen.io/CamilleGomes">
