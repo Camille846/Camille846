@@ -7,7 +7,7 @@
 
 🏡 Rio de Janeiro, Brasil.
 
-🎓 Graduação em Engenharia de Software na Uninter
+🎓 Graduação em Engenharia de Software
 
 💻 Foco na área de desenvolvimento Web.
 
