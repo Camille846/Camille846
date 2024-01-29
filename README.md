@@ -11,7 +11,7 @@
 
 💻 Foco na área de desenvolvimento Web.
 
-💬 Português | Inglês Avançado | Espanhol intermediário
+💬 Português | Inglês Fluente | Espanhol intermediário
  
 
 <h3> Skills </h3>
